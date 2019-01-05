@@ -1,2 +1,2 @@
 # redpitaya
-Getting startd with Redpitaya
+Getting started with Redpitaya
